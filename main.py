@@ -36,7 +36,7 @@ def detect(headline, test_size=0.2, random_state=50):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     real_headline = """
-        Ukraine: Austrian leader, Putin meet…other new developments
+        The Battle of New York: Why This Primary Matters	
     """
     fake_headline = """
         A lion was found flying in South America
